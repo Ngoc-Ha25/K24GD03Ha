@@ -1,0 +1,7 @@
+C:\Dev\K24GD03Ha\LAB3\Baitap1_LAB3\bin\Debug\Baitap1_LAB3.exe.config
+C:\Dev\K24GD03Ha\LAB3\Baitap1_LAB3\bin\Debug\Baitap1_LAB3.exe
+C:\Dev\K24GD03Ha\LAB3\Baitap1_LAB3\bin\Debug\Baitap1_LAB3.pdb
+C:\Dev\K24GD03Ha\LAB3\Baitap1_LAB3\obj\Debug\Baitap1_LAB3.csproj.AssemblyReference.cache
+C:\Dev\K24GD03Ha\LAB3\Baitap1_LAB3\obj\Debug\Baitap1_LAB3.csproj.CoreCompileInputs.cache
+C:\Dev\K24GD03Ha\LAB3\Baitap1_LAB3\obj\Debug\Baitap1_LAB3.exe
+C:\Dev\K24GD03Ha\LAB3\Baitap1_LAB3\obj\Debug\Baitap1_LAB3.pdb
