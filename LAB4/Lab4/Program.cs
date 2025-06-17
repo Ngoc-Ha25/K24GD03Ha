@@ -44,6 +44,10 @@ namespace Lab4
 
             if (TimMatHang(danhsach, maTim))
             {
+                MatHang mhCanXoa = (MatHang)danhsach[maTim];
+                Console.WriteLine("\nMat hang can tim:");
+                mhCanXoa.Xuat();
+
                 XoaMatHang(danhsach, maTim);
                 Console.WriteLine("\nDa xoa mat hang. Danh sach sau khi xoa: ");
                 foreach(MatHang mh in danhsach.Values)
