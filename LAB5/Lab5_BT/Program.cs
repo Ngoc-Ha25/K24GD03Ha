@@ -41,7 +41,7 @@ namespace LAB5
         {
             while (true)
             {
-                Console.WriteLine("\n==== MENU ====");
+                Console.WriteLine("\n== MENU ==");
                 Console.WriteLine("1. Nhập dữ liệu sinh viên");
                 Console.WriteLine("2. Ghi dữ liệu sinh viên vào Firebase");
                 Console.WriteLine("3. Lấy dữ liệu sinh viên từ Firebase");
