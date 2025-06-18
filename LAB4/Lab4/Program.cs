@@ -36,6 +36,7 @@ namespace Lab4
             foreach (MatHang mh in danhsach.Values)
             {
                 mh.Xuat();
+                
             }
 
             // Tìm và xóa mặt hàng
